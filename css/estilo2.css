@@ -1,0 +1,72 @@
+*{
+
+}
+#principal{
+    background-color: black;
+    width: 600px;
+    height: 600px;
+    margin: auto;
+
+}
+#cabeza{
+    width: 75px;
+    height: 75px;
+    background-color: aliceblue;
+    border-radius: 100px; 
+    margin: auto;
+    margin-top: 30px;
+
+}
+#cuerpo{
+    width: 125px;
+    height: 125px;
+    background-color: aliceblue;
+    border-radius: 100px; 
+    margin-top: 100px;
+    margin: auto;
+}
+#base{
+    width: 175px;
+    height: 175px;
+    background-color: aliceblue;
+    border-radius: 100px; 
+    margin-top: 150px;
+    margin: auto;
+}
+#ojo1{
+    width: 15px;
+    height: 15px;
+    background-color: rgb(5, 5, 5);
+    border-radius: 100px; 
+    margin-top: 20px;
+    float: right;
+    margin-right: 15px;
+
+}
+#ojo2{
+    width: 15px;
+    height: 15px;
+    background-color: rgb(5, 5, 5);
+    border-radius: 100px; 
+    margin-top: 20px;
+    float: left;
+    margin-left: 15px;
+}
+#brazo1{
+
+    width: 200px;
+    height: 25px;
+    background-color: rgb(226, 228, 217);
+    float: left;
+    margin-top: 40px;
+    margin-left: 120px;
+}
+#brazo2{
+
+    width: 150px;
+    height: 25px;
+    background-color: rgb(232, 235, 219);
+    float: right;
+    margin-right: 120px; 
+    margin-top: -25px; 
+}
